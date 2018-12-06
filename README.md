@@ -22,7 +22,7 @@ Links to presentations, resources etc for the OpenSpace we did at our Meetup in 
 #### Datenjournalismus
 
 #### Let's git our shit together!
-- [GitHub Repository](https://github.com/friep/git-our-shit-together) (German slides)
+- [GitHub Repository](https://github.com/friep/git-our-shit-together) 
 - In diesem Git-Einführungsworkshop lernten die Teilnehmer\*innen die grundlegenden Konzeopte von Git kennen: Fork, Clone, Commit, Push / Pull. In einigen Hands On Sessions setzten die Teilnehmer\*innen das Gelernte in einem Mini-Gruppenprojekt mit GitHub und dem GitKraken GUI praktisch um. Sogar ein Merge Conflict wurde erfolgreich gelöst! :tada:
 - Speaker: Frie Preu, CorrelAid Core Team Mitglied und Data Scientist bei codcentric AG
   - Links: [GitHub](https://github.com/friep/), [Twitter](https://twitter.com/ameisen_strasse/), [LinkedIn](https://www.linkedin.com/in/friedrike-preu-a2bb46a7/)
